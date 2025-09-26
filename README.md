@@ -6,8 +6,6 @@ Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre
 
 ### 🚀 Minhas Habilidades
 
-### 🚀 Minhas Habilidades
-
 <p align="left">
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="34" height="34" style="margin: 10px 16px;"/> 
@@ -21,6 +19,12 @@ Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre
   <a href="https://n8n.io/" target="_blank"> 
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.65.0/files/dark/n8n-color.png" alt="n8n" width="32" height="32" style="margin: 10px 16px;"/> 
   </a>
+  <a href="https://azure.microsoft.com/pt-br/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="32" height="32" style="margin: 10px 16px;"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36" style="margin: 10px 16px;"/> 
+  </a>
   <a href="https://www.ubuntu.com" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="ubuntu" width="32" height="32" style="margin: 10px 16px;"/> 
   </a>
@@ -29,12 +33,6 @@ Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre
   </a>
   <a href="https://www.redhat.com" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="redhat" width="32" height="32" style="margin: 10px 16px;"/> 
-  </a>
-  <a href="https://azure.microsoft.com/pt-br/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="32" height="32" style="margin: 10px 16px;"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36" style="margin: 10px 16px;"/> 
   </a>
 </p>
 ---
