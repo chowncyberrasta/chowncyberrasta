@@ -35,6 +35,7 @@ Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="redhat" width="32" height="32" style="margin: 10px 10px;"/>
   </a>
 </p>
+
 ---
 
 ### O que estou aprendendo
