@@ -40,7 +40,7 @@ Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre
 
 ### O que estou aprendendo
 
-Atualmente estou me aprofundando no desenvolvimento de ferramentas **segurança da informação**.
+Atualmente estou me aprofundando no desenvolvimento de ferramentas avançadas de **segurança da informação**.
 
 ---
 
