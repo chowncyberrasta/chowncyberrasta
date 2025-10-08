@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Pedro, analista de sistemas! 👋
 
-Tenho experiência em desenvolvimento back-end e infraestrutura na nuvem, sempre buscando aprender e aplicar novas tecnologias para resolver problemas complexos.
+Tenho experiência em desenvolvimento back-end, infraestrutura web e cybersecurity, sempre buscando aprender e aplicar novas tecnologias para resolver problemas complexos.
 
 ---
 
